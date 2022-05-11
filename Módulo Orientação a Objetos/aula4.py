@@ -1,7 +1,5 @@
 import time
 
-from matplotlib.pyplot import switch_backend
-
 segundos_hoje = time.time()
 print(segundos_hoje)
 
