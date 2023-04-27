@@ -1,4 +1,5 @@
-import ContasBanco
+from ContasBanco import ContaCorrente
+from ContasBanco import CartaoCredito
 
 # programa
 conta_lira = ContaCorrente("Lira", "111.222.333-45", 1220, 340563)
